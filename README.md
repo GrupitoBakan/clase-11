@@ -16,3 +16,4 @@
 ##### https://www.santiago2023.org/es/deportes/gimnasia-artistica-femenina.html
 ##### https://www.santiago2023.org/es/deportes/gimnasia-artistica-masculina.html
 ##### https://www.gymnastics.sport/publicdir/rules/files/es_2022-2024%20WAG%20COP.pdf 
+##### https://www.santiago2023.org/es/sedes-recintos.html
