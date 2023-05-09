@@ -1,4 +1,4 @@
 # Apuntes
 ## Gimnasia Artística
-###Femenino
-###Masculino
+### Femenino
+### Masculino
