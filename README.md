@@ -1,2 +1,2 @@
 # Apuntes
-## Grupito Bakan
+## Gimnasia Artística
