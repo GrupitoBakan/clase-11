@@ -9,3 +9,7 @@
 #### Aparatos
 #### Sistema de puntuación
 #### Atletas más relevantes
+#### Biblografía
+[link](https://olympics.com/es/deportes/gimnasia-artistica/) 
+[link](https://concepto.de/gimnasia-artistica/)
+[link](https://www.santiago2023.org/es/deportes/gimnasia-artistica-femenina.html)
