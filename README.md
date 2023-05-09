@@ -3,7 +3,7 @@
 #### Introducción
 #### En qué consisten
 #### Donde serán este 2023
-## Gimnasia Artística
+## Gimnasia Artística Femenina
 ### Femenino
 ### Masculino
 #### Escenario (disposición genérica)
