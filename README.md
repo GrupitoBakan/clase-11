@@ -1,7 +1,8 @@
 # Apuntes
 ## Juegos Panamericanos
-#### Donde es
+#### Introducción
 #### En qué consisten
+#### Donde serán este 2023
 ## Gimnasia Artística
 ### Femenino
 ### Masculino
