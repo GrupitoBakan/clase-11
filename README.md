@@ -15,7 +15,49 @@ Las gimnastas compiten en un aparato compuesto por dos barras, una inferior y un
 
 ##### Dimensiones y cracterísticas
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/GrupitoBakan/Apuntes/blob/main/img/Dimensiones_Barras_FIG.png "Dimensiones Barras Asimétricas")
+
+[Regulaciones de aparatos](https://www.gymnastics.sport/publicdir/rules/files/en_Apparatus%20Norms.pdf)
+
+#### Viga de equilibro
+
+La competencia se da en una barra. La prueba se realiza a lo largo de toda la barra, sin interrupciones, cada rutina está compuesta por movimientos acrobáticos, gimnásticos y de danza. Se destacan los ingresos a la viga y, por supuesto, sus espectaculares salidas.
+
+[Video referencia](https://www.youtube.com/watch?v=6a_8tOmWZlI)
+
+##### Dimensiones y características
+
+![Alt text](https://github.com/GrupitoBakan/Apuntes/blob/main/img/Dimensiones_Viga_FIG.png "Dimensiones Viga de Equilibrio")
+
+[Regulaciones de aparatos](https://www.gymnastics.sport/publicdir/rules/files/en_Apparatus%20Norms.pdf)
+
+#### Suelo
+
+Esta prueba se realiza sobre una superficie de 12x12 m. Las gimnastas deben emplear acrobacia, movimientos gimnásticos y de danza para obtener una alta puntuación. La competencia dura entre 50 a 70 segundos y la gimnasta debe usar toda el área de competencia. Se destaca por la utilización de música en la que la interpretación artística también es evaluada.
+
+[Video referencia](https://www.youtube.com/watch?v=Sf_fv-WuGIk)
+
+##### Dimensiones y cracterísticas
+
+![Alt text](https://github.com/GrupitoBakan/Apuntes/blob/main/img/Dimensiones_Suelo_FIG.png "Dimensiones Suelo")
+
+[Regulaciones de aparatos](https://www.gymnastics.sport/publicdir/rules/files/en_Apparatus%20Norms.pdf)
+
+#### Salto de Caballete
+
+Esta modalidad consiste en saltar sobre la mesa de salto impulsado por un trampolín. Cada gimnasta tiene derecho a realizar un salto y las que optan a la final de especialistas deberán hacer dos saltos. Las fases del ejercicio son carrera de aceleración, rechazo, apoyo de manos en el potro, fase aérea y caída a pies juntos. La dificultad del salto dependerá de la posición corporal y los giros que pueda desarrollar, siendo imprescindible para una buena ejecución recepcionar con ambos pies dentro de los márgenes permitidos.
+
+[Video referencia](https://www.youtube.com/watch?v=Pg8ewr5ovQk)
+
+##### Dimensiones y características
+
+![Alt text](https://github.com/GrupitoBakan/Apuntes/blob/main/img/Dimensiones_Caballete_FIG.png "Dimensiones Caballete")
+
+![Alt text](https://github.com/GrupitoBakan/Apuntes/blob/main/img/Dimensiones_Caballete_FIG_2.png "Dimensiones Caballete")
+
+![Alt text](https://github.com/GrupitoBakan/Apuntes/blob/main/img/Dimensiones_Caballete_FIG_4.png "Dimensiones Trampolín")
+
+![Alt text](https://github.com/GrupitoBakan/Apuntes/blob/main/img/Dimensiones_Caballete_FIG_3.png "Dimensiones Colchonetas")
 
 [Regulaciones de aparatos](https://www.gymnastics.sport/publicdir/rules/files/en_Apparatus%20Norms.pdf)
 
