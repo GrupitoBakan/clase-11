@@ -81,14 +81,25 @@ Gana el gimnasta con la puntuación combinada D y E más alta. El gimnasta con l
 
 #### Biblografía
 https://olympics.com/es/deportes/gimnasia-artistica/ 
+
 https://concepto.de/gimnasia-artistica/
+
 https://www.santiago2023.org/es/deportes/gimnasia-artistica-femenina.html
+
 https://www.santiago2023.org/es/deportes/gimnasia-artistica-masculina.html
+
 https://www.gymnastics.sport/publicdir/rules/files/es_2022-2024%20WAG%20COP.pdf 
+
 https://www.santiago2023.org/es/sedes-recintos.html 
+
 https://www.santiago2023.org/es/acerca-de-panam-sports.html 
+
 https://www.mindep.cl/secciones/193 
+
 https://www.santiago2023.org/es/noticias/portada-sitio-web/detalle/176/conoce-como-avanzan-los-nuevos-escenarios-multideportivos-del-estadio-nacional 
+
 https://www.24horas.cl/deportes/mas-deportes/sofia-casella-clasifico-al-panamericano-adulto-de-gimnasia-artistica-colombia 
+
 https://www.gymnastics.sport/publicdir/rules/files/en_Apparatus%20Norms.pdf 
+
 https://olympics.com/es/deportes/gimnasia-artistica/ 
